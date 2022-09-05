@@ -19,9 +19,9 @@ void main() {
   pessoa_1.altura = 1.85;
 
   Pessoa pessoa_2 = new Pessoa();
-  pessoa_2.nome = 'Thiago';
-  pessoa_2.idade = 20;
-  pessoa_2.altura = 1.82;
+  pessoa_2.nome = 'Ester';
+  pessoa_2.idade = 19;
+  pessoa_2.altura = 1.70;
 
   print(pessoa_1.nome);
   print(pessoa_2.nome);

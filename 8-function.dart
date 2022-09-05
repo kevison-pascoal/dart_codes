@@ -9,7 +9,6 @@ void main() {
 
 void printIntro(String name) {
   print("Seja bem vindo(a) $name!");
-  print("Escolha a opção!");
 }
 
 void calcSoma(double num_1, double num_2, String operator) {
